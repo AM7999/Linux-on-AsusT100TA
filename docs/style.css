@@ -1,0 +1,14 @@
+body {
+  background-color: #242a2b;
+}
+
+div#top {
+  align-self: center;
+  color: #a4afb3;
+  font-family: Segoe UI;
+}
+div#content {
+  align-content: center;
+  color: #a4afb3;
+  font-family: Segoe UI;
+}
